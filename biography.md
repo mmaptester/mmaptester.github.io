@@ -1,0 +1,15 @@
+---
+layout: default
+title: Biography
+weight: 2
+---
+
+Martin Malmgren is a pianist based in Finland. As a versatile musician he frequently performs solo recitals, collaborates with singers and instrumentalists, works with composers and surprises his audiences by performing unjustly neglected works far outside of the standard repertoire. He champions the music of Samuil Feinberg, Grazyna Bacewicz, Roslavets, Szymanowski, Roman Maciejewski, Florent Schmitt and numerous other underplayed composers. Always aiming at finding meaningful connections between different composers, his concert programs typically reflect ways of building bridges between different musical styles and periods.  Throughout the years, he has also had considerable success in competitions - he won the Nordic Yamaha Competition in 2011, was a prize-winner at the Helmi Vesa Competition 2012, a finalist in the Solofoni prize 2009, and in October 2013 he won the Ljunggren competition. Most recently, he was awarded the first prize at the Ilmari Hannikainen piano competition, the largest national piano compettion in Finland, after having performed the rarely heard Prokofiev 5th piano concerto with the Jyväskylä Symphony Orchestra, conducted by Ville Matvejeff. He has performed throughout Europe, Israel, USA, and has frequently been invited to perform in music festivals including Eilat Chamber Music Festival, Music Academy of the West (California), Aurora Chamber Music Festival, Trelleborg International Piano Festival and others. As a soloist with orchestra he has performed works by Bartok, Bach, Elliott Carter, Schumann, Ravel and Gershwin.
+
+As an active collaborator with other musicians, Martin frequently performs with singers like Annami Hylkilä, Martin Vanberg, Niall Chorell and Julia Heéger, and musicians as Tobias Ringborg, Ellen Nisbeth, Brusk Zanganeh and many others. As a soloist, he has collaborated with conductors as Petri Sakari, Eva Ollikainen, Ville Matvejeff, Giancarlo Rizzi and Erkki Lasonpalo, to mention a few.
+
+Taking a great interest in contemporary music, Martin has often performed in contemporary music ensembles. He premiered Daniel Börtz' piano quintet "Agora" in 2010, and has been involved in performing newly-written works by Sven-David Sandström, Anders Nilsson, Pasi Lyytikäinen, Magnus Lindberg, Asko Hyvärinen, Peter Lieberson, Lotta Wennäkoski and Jyrki Linjama among others, often under guidance of the composers.
+
+Martin holds a Bachelor of Music from Edsberg Manor/Royal Academy of Music in Stockholm, where he studied piano with Mats Widlund and chamber music with  Mats Zetterqvist. Since 2009, he is pursuing a masters degree at the Sibelius Academy, with Ilmo Ranta being his main piano teacher the last few years. 
+
+As an active collaborator with artists in other fields, Martin has also performed with famous pop/rock groups as well as folk music groups. As a founding member of the klezmer/balkan band Babalisk, he has participated in several CD recordings. The group has also actively been taking part in folk music festivals and similar events all over Sweden.

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }} - Martin Malmgren</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+		<!-- google fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Lusitana' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Jacques+Francois' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+	<!--
+        <div class="site">
+	-->
+
+	<!--
+	<div class="nav">
+	<ul class="nav">
+	  {% for page in site.pages %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	  {% endfor %}
+	  <li><a href="/">Home</a></li>
+	  <li><a href="/about/">About</a></li>
+	  <li><a href="/work/">Work</a></li>
+	  <li><a href="/clients/">Clients</a></li>
+	  <li><a href="/contact/">Contact</a></li>
+	</ul>
+
+
+	</div>
+	
+	-->
+	<div id="bg_no_tag"> </div>
+<div class="site">
+
+          <div class="header">
+            <!--<div class="title">
+              <h1 ><a href="/">{{ site.name }}</a></h1>
+            </div>-->
+		
+          <div class="row">
+            <div class="titleimg">
+			  <img src="/images/title200.png" alt="" class="titleimg">
+			</div>
+			<img src="/images/quote400.png" alt="" class="quoteimg">
+            <div class="nav">
+			<ul class="nav">
+			<!-- Note: only 20 pages, change here -->
+			{% for weight in (1..20) %}
+			  {% for p in site.pages %}
+				{% if p.weight == weight %}
+				  <li>
+					<a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+					  {{ p.title }}
+					</a>
+				  </li>
+				{% endif %}
+			  {% endfor %}
+			{% endfor %}
+			</ul>
+			</div>
+		  </div>
+			<!--<a class="extra" href="/">home</a>-->
+            <!--
+            {% for page in site.pages reversed %}
+            <a class="extra" href="{{ page.url }}">{{ page.title }}</a>
+            {% endfor %}
+			-->
+            <!--<ul class="nav">
+            </ul><li></li>-->
+
+          </div>
+
+
+          <div class="content">
+		  <h1 class="title">{{ page.title }}</h1>
+          {{ content }}
+          </div>
+
+
+</div>
+          <div class="footer">
+              <p style="float: left; text-align:left;">
+			    &copy {{ site.time | date: '%Y' }} Martin Malmgren 
+              </p>
+              <p style="float: right; text-align:right;">
+                Design by Gustav Larsson
+              </p>
+		  <!--
+
+            <div class="contact" style="float:right;">
+              <p style="text-align:right;">
+                Design by Gustav Larsson
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+			    &copy {{ site.time | date: '%Y' }} Martin Malmgren 
+              </p>
+            </div>
+			-->
+          </div>
+
+        </div>
+
+<!--
+-->
+    </body>
+</html>
