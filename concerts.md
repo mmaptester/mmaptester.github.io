@@ -9,8 +9,8 @@ weight: 3
  
  
 ### February 1
-Gothenburg, Artisten
-Ravel: Concerto for left hand
+Gothenburg, Artisten  
+Ravel: Concerto for left hand  
 On tour with SNOA orchestra, conducted by Petri Sakari
  
 ### February 2
