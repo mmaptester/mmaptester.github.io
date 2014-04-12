@@ -14,17 +14,17 @@ Ravel: Concerto for left hand
 On tour with SNOA orchestra, conducted by Petri Sakari
  
 ### February 2
-Larvik, Norway
-Ravel: Concerto for left hand
+Larvik, Norway  
+Ravel: Concerto for left hand  
 On tour with SNOA orchestra, conducted by Petri Sakari
  
 ### February 4
-Bergen, Grieg-hallen
-Ravel: Concerto for left hand
+Bergen, Grieg-hallen  
+Ravel: Concerto for left hand  
 On tour with SNOA orchestra, conducted by Petri Sakari
  
 ### February 19
-Huopalahti church, Helsinki
+Huopalahti church, Helsinki  
 "Kielin, palkein, koskettimin" concert series. Music by Bach, Chopin, Szymanowski and Debussy
  
 ### February 21
@@ -32,57 +32,57 @@ Sibelius Academy
 Solo recital
  
 ### February 23
-Jyväskylä
+Jyväskylä  
 First round of the Ilmari Hannikainen Piano Competition. Works by J.S. Bach, CPE Bach, Chopin, Debussy and Szymanowski
  
  
 ### February 28
-Jyväskylä
+Jyväskylä  
 Semifinals of the Ilmari Hannikainen Piano Competition. Works by Beethoven, Chopin, Ravel, Berg, Sibelius and Lindberg
  
  
 ### March 3
-Musiikkitalo, Helsinki
-Finnish Radio Orchestra, cond. Hannu Lintu
+Musiikkitalo, Helsinki  
+Finnish Radio Orchestra, cond. Hannu Lintu  
 Performing selections of Sebastian Dumitrescu's Piano Concerto as a part of a workshop for composition students of the Sibelius Academy
  
  
 ### March 6
-Jyväskylä
-Finals of the Ilmari Hannikainen Piano Competition
-Prokofiev Piano concerto nr 5
+Jyväskylä  
+Finals of the Ilmari Hannikainen Piano Competition  
+Prokofiev Piano concerto nr 5  
 with Jyväskylä Symphony Orchestra, conducted by Ville Matvejeff 
  
 The concert can be seen in, its entirety, [here](http://www.e-concerthouse.com/en/videos/ech-archive/532-ilmari-hannikaisen-pianokilpailu-2-paeivae).
  
 ### March 17
-Sibelius Academy
-Beethoven: "Hammerklavier" sonata
+Sibelius Academy  
+Beethoven: "Hammerklavier" sonata  
 Masterclasses with Paavali Jumppanen on Beethoven's piano sonatas
  
  
 ### April 13
-Kässän Taidetalo, Lohja
-Lied recital with soprano Annami Hylkilä 
+Kässän Taidetalo, Lohja  
+Lied recital with soprano Annami Hylkilä  
 Music by Lotta Wennäkoski, Jyrki Linjama, Rachmaninov, Szymanowski and Sibelius.
  
  
 ### May-June
-Helsinki
-Solo recitals with the complete mazurkas by Karol Szymanowski, as well as mazurkas by other composers as Roman Maciejewski, Paavo Heininen, Frederic Chopin and others.
+Helsinki  
+Solo recitals with the complete mazurkas by Karol Szymanowski, as well as mazurkas by other composers as Roman Maciejewski, Paavo Heininen, Frederic Chopin and others.  
 Exact date and place will be announced later.
  
  
 ### June 20-22
-Musik i Midsommar, Stenungsund
+Musik i Midsommar, Stenungsund  
 Solo Recital
  
 ### June 26-29
-Mariestad, Sweden
+Mariestad, Sweden  
 Old Ox Chamber Festival
  
 ### July 4
-Malmköping, Sweden
+Malmköping, Sweden  
 Recital with Tobias Ringborg, violin
  
  
@@ -96,7 +96,7 @@ TBA
  
  
 ### October 25
-Släp k:a
+Släp k:a  
 Lied Recital with tenor Martin Vanberg
  
 ### More info coming soon
@@ -115,11 +115,11 @@ Martin is taking part in Académies Internationales d'été du Grand Nancy, and 
  
  
 ### September 15
-Solo recital at Kässän Taidetalo, Lohja. 
+Solo recital at Kässän Taidetalo, Lohja.   
 "From French baroque to Finnish modernism" - an eclectic 60-minute program including music by Rameau, Beethoven, Debussy, Chopin, Magnus Lindberg, Szymanowski and many others!
  
 ### September, exact date TBA
-Solo recital in Sibelius Academy, Helsinki
+Solo recital in Sibelius Academy, Helsinki  
 "From French baroque to Finnish modernism"
  
  
@@ -135,12 +135,12 @@ Solo recital at Arkadia International Bookshop, Helsinki. "From French baroque t
  
  
 ### October 3
-Solo recital in Sibelius Academy, Helsinki, Wegelius Hall
+Solo recital in Sibelius Academy, Helsinki, Wegelius Hall  
 "From French baroque to Finnish modernism"
  
  
 ### October 5-6
-The Ljunggren competition, Gothenburg, Sweden.
+The Ljunggren competition, Gothenburg, Sweden.  
 Martin is one of 6 selected to take part in a national multi-instrumental competition. The varied program includes Ravel's Gaspard de la nuit, Beethoven piano sonata op 78 as well as shorter works by Chopin, Szymanowski, Couperin, Debussy, Lindberg, Couperin and others.   
 
 <!-- länken funkar inte
@@ -149,7 +149,7 @@ More info: [http://www.hsm.gu.se/Samverkan/ljunggrenska-tavlingen/semifinal_2013
  
   
 ### October 27
-Lied recital with Julia Héeger, soprano. Songs by Bartok, Kodaly, Kuula and Pulkkis
+Lied recital with Julia Héeger, soprano. Songs by Bartok, Kodaly, Kuula and Pulkkis  
 Taidekoti Kirpilä, Helsinki
  
  
@@ -173,7 +173,7 @@ Babalisk goes klezmer! At Aurora Chamber Music Festival, Vänersborg, Sweden:
 Recording session at the Berwald Hall, Stockholm
  
 ### November 15
-Lunch-time concert in Helsinki Music Centre, Camerata
+Lunch-time concert in Helsinki Music Centre, Camerata  
 Music by Schumann and Szymanowski  
 
 <!-- länken funkar inte
@@ -182,13 +182,13 @@ Music by Schumann and Szymanowski
  
  
 ### November 29
-Camerata, Music House, Helsinki
+Camerata, Music House, Helsinki  
 Lunchtime concert - music by Beethoven, Couperin, Chopin and Debussy  
 [http://www.siba.fi/whats-on1/-/events/event/9916](http://www.siba.fi/whats-on1/-/events/event/9916)
  
 ### December 2
  
-Examination concert, Sibelius Academy.
+Examination concert, Sibelius Academy.  
 Program:
  
 > Beethoven - Piano sonata in F# major, op. 78  
