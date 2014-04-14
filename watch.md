@@ -12,12 +12,13 @@ Place the ID:s of the videos here below (in between the "capture"-tags
 -->
 {% capture videos %}
 
-Jz8jvwo5zYU
+
 H7HuHMH-1bs
 YJc_vKJEZ58
 0DLAZf9y43Q
 a33_8fWiX6Y
 I25frMHXLD4
+Jz8jvwo5zYU
 Mjz6F8cfAbk
 G44e0dufFx4
 d6_1EjMCvPM
