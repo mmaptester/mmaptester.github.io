@@ -157,6 +157,26 @@ h3 {
 	//margin: 0px; 
 	//padding: 0px; 
 }
+em {
+	font-style: italic; 
+}
+/*
+ul {
+	margin: 1.12em 0; 
+}
+li { 
+	display: list-item;
+}
+*/
+code {
+	display: inline-block;
+}
+pre, code {
+	font-family: monospace;
+	padding: 0.5em .5em;
+	color: #fff; 
+	background-color: #111; 
+}
 
 body {
 	background: #111 ;
