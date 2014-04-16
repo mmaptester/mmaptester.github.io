@@ -5,6 +5,11 @@ weight: 1
 ---
 
 ## 2014
+
+
+### April 17
+
+The videos of the finals of the Ilmari Hannikainen Piano Competition are now available on youtube. [Enjoy!](https://www.youtube.com/watch?feature=player_detailpage&v=c0qCaorCrT0#t=1595) 
  
 ### March 28
 
