@@ -5,6 +5,20 @@ weight: 3
 ---
 
 
+## 2015
+
+### February 18
+Hämeenlinna
+Prokofiev: Piano concerto nr 5
+Sinfonia Lahti, conducted by Dalia Stasevska
+
+### February 19
+Lahti
+Prokofiev: Piano concerto nr 5
+Sinfonia Lahti, conducted by Dalia Stasevska
+
+
+
 ## 2014
  
  
@@ -53,7 +67,7 @@ Finals of the Ilmari Hannikainen Piano Competition
 Prokofiev Piano concerto nr 5  
 with Jyväskylä Symphony Orchestra, conducted by Ville Matvejeff 
  
-The concert can be seen in, its entirety, [here](http://www.e-concerthouse.com/en/videos/ech-archive/532-ilmari-hannikaisen-pianokilpailu-2-paeivae).
+The performance can be seen [here](https://www.youtube.com/watch?v=yUWtk81q7Eo).
  
 ### March 17
 Sibelius Academy  
@@ -73,13 +87,11 @@ Solo recitals with the complete mazurkas by Karol Szymanowski, as well as mazurk
 Exact date and place will be announced later.
  
  
-### June 20-22
+### June 25
 Musik i Midsommar, Stenungsund  
-Solo Recital
+Performing solo works by Chabrier, Couperin, Debussy and Ravel, as well as Poulenc's Sextet with Blomqvist5. 
+More info [here](http://www.musikistenungsund.se/)
  
-### June 26-29
-Mariestad, Sweden  
-Old Ox Chamber Festival
  
 ### July 4
 Malmköping, Sweden  
@@ -98,6 +110,7 @@ TBA
 ### October 25
 Släp k:a  
 Lied Recital with tenor Martin Vanberg
+ 
  
 ### More info coming soon
  
