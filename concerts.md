@@ -13,9 +13,9 @@ Prokofiev: Piano concerto nr 5
 Sinfonia Lahti, conducted by Dalia Stasevska   
 
 ### February 19
-Lahti
-Prokofiev: Piano concerto nr 5
-Sinfonia Lahti, conducted by Dalia Stasevska
+Lahti   
+Prokofiev: Piano concerto nr 5   
+Sinfonia Lahti, conducted by Dalia Stasevska   
 
 
 
