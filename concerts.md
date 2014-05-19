@@ -119,7 +119,7 @@ Schumann piano quartet, french piano music and much more!
 
  
 ### August 2-8
-Musiikkitalo, Helsinki
+Musiikkitalo, Helsinki   
 Taking part in the Sibelius Finland Experience. Daily performances throughout the summer of Sibelius music. More information [here](http://www.stopover.fi/)
 
 
@@ -128,8 +128,9 @@ Solo recital at Säfstaholm castle
  
  
 ### August 14
-Music House, Helsinki
-TBA
+Camerata, Musiikkitalo, Helsinki   
+"Young Summer Artists" concert   
+Piano works by Couperin, Chabrier, Debussy and Ravel. The concert also includes chamber music, lied and Hindemith's Kammermusik ('Klavierkonzert') op. 36 nr 1, with chamber orchestra.
  
  
 ### October 25
