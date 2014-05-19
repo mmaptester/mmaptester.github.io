@@ -81,11 +81,21 @@ Lied recital with soprano Annami Hylkilä
 Music by Lotta Wennäkoski, Jyrki Linjama, Rachmaninov, Szymanowski and Sibelius.
  
  
-### May-June
-Helsinki  
-Solo recitals with the complete mazurkas by Karol Szymanowski, as well as mazurkas by other composers as Roman Maciejewski, Paavo Heininen, Frederic Chopin and others.  
-Exact date and place will be announced later.
- 
+### May 23
+Helsinki, Arkadia International Bookshop
+"Daydreams of paneuropanism – The Complete Mazurkas for Piano by Karol Szymanowski, Part 1"
+
+Solo recital with the complete Mazurkas by Karol Szymanowski, as well as mazurkas by composers such as Roman Maciejewski, Paavo Heininen and Frederic Chopin. 
+
+More info [here](http://www.arkadiabookshop.fi/friday-23-5-at-6pm-at-arkadia-daydreams-of-paneuropanism-the-complete-mazurkas-for-piano-by-karol-szymanowski-part-1-performed-by-martin-malmgren/)
+
+### May 30
+Helsinki, Arkadia International Bookshop
+
+"Daydreams of paneuropanism – The Complete Mazurkas for Piano by Karol Szymanowski, Part 2"
+
+The second concert of two with the complete Mazurkas by Karol Szymanowski.
+
  
 ### June 25
 Musik i Midsommar, Stenungsund  
@@ -97,7 +107,22 @@ More info [here](http://www.musikistenungsund.se/)
 Malmköping, Sweden  
 Recital with Tobias Ringborg, violin
  
+### July 30
+
+Tampere
+Schumann piano quartet, french piano music and much more!
+
+### July 31
  
+Loviisa
+Schumann piano quartet, french piano music and much more!
+
+ 
+### August 2-8
+Musiikkitalo, Helsinki
+Taking part in the Sibelius Finland Experience. Daily performances throughout the summer of Sibelius music. More information [here](http://www.stopover.fi/)
+
+
 ### August 11
 Solo recital at Säfstaholm castle
  
