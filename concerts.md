@@ -90,17 +90,17 @@ Solo recital with the complete Mazurkas by Karol Szymanowski, as well as mazurka
 More info [here](http://www.arkadiabookshop.fi/friday-23-5-at-6pm-at-arkadia-daydreams-of-paneuropanism-the-complete-mazurkas-for-piano-by-karol-szymanowski-part-1-performed-by-martin-malmgren/)
 
 ### May 30
-Helsinki, Arkadia International Bookshop
+Helsinki, Arkadia International Bookshop   
 
-"Daydreams of paneuropanism – The Complete Mazurkas for Piano by Karol Szymanowski, Part 2"
+"Daydreams of paneuropanism – The Complete Mazurkas for Piano by Karol Szymanowski, Part 2"   
 
-The second concert of two with the complete Mazurkas by Karol Szymanowski.
+The second concert of two with the complete Mazurkas by Karol Szymanowski.   
 
  
 ### June 25
-Musik i Midsommar, Stenungsund  
-Performing solo works by Chabrier, Couperin, Debussy and Ravel, as well as Poulenc's Sextet with Blomqvist5. 
-More info [here](http://www.musikistenungsund.se/)
+Musik i Midsommar, Stenungsund     
+Performing solo works by Chabrier, Couperin, Debussy and Ravel, as well as Poulenc's Sextet with Blomqvist5.    
+More info [here](http://www.musikistenungsund.se/)   
  
  
 ### July 4
