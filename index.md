@@ -3,7 +3,6 @@ layout: default
 title: News
 weight: 1
 ---
-<meta name="google-site-verification" content="U8Cg9C4-xnlxot1UllPV4pvlrIiFNBaPF0tKnfgm5SY" />
 
 ## 2014
 
