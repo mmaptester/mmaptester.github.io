@@ -5,12 +5,22 @@ weight: 3
 ---
 
 
+
 ## 2015
 
-### February 18
-Hämeenlinna   
-Prokofiev: Piano concerto nr 5   
-[Sinfonia Lahti](http://www.sinfonialahti.fi/konsertit/konserttikalenteri/kevat15/fi_FI/kevat2015helmikuu/), conducted by Dalia Stasevska   
+
+<!-- Microdata markup added by Google Structured Data Markup Helper. -->
+<div itemscope itemtype="http://schema.org/Event" class="site">
+
+<h3 itemprop="startDate" content="2015-02-18">### February 18</h3>
+
+<p>
+<span itemprop="location" itemscope itemtype="http://schema.org/Place">
+<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<span itemprop="addressLocality">Hämeenlinna</span></span></span><br/>
+
+<span itemprop="name">Prokofiev: Piano concerto nr 5</span><br/>
+<a itemprop="url" href="http://www.sinfonialahti.fi/konsertit/konserttikalenteri/kevat15/fi_FI/kevat2015helmikuu/">Sinfonia Lahti</a>, conducted by Dalia Stasevska   </p>
 
 ### February 19
 Lahti   
@@ -251,3 +261,6 @@ Conductor: Giancarlo Rizzi
 "Who was Karol Szymanowski?" A lecture-recital focusing on the life and works of Szymanowski. Arkadia International Bookshop, Helsinki. Songs, chamber music and solo piano works by Szymanowski. Performers include sopranos Julia Héeger and Annami Hylkilä, soprano, and violinists Elias Lassfolk and Emilia Karjunen.  
 [http://www.arkadiabookshop.fi/wednesday-18-12-at-4pm-the-world-of-karol-szymanowski-his-life-and-works-in-words-and-music-by-pianist-martin-malmgren-emilia-karjunen-elias-lassfolk-julia-heeger-and-annami-hylkila/](http://www.arkadiabookshop.fi/wednesday-18-12-at-4pm-the-world-of-karol-szymanowski-his-life-and-works-in-words-and-music-by-pianist-martin-malmgren-emilia-karjunen-elias-lassfolk-julia-heeger-and-annami-hylkila/)
 
+<meta itemprop="description" content="Prokofiev Piano concerto nr 5">
+<span itemprop="performer" itemscope itemtype="http://schema.org/Person">
+<meta itemprop="name" content="Martin Malmgren"></span>
