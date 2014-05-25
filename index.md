@@ -6,7 +6,7 @@ weight: 1
 
 <meta name="subject" content="Pianist Martin Malmgren">
 <meta name="description" content="Martin Malmgren is a pianist based in Finland. He frequently performs solo recitals, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."/>
-
+<meta name="keywords" content="Martin Malmgren, piano, pianist, classical music, Prokofiev, Ravel, Bach, Chopin, Szymanowski"/>
 <head> <title>Martin Malmgren, pianist </title> <meta name="description" content="Martin Malmgren is a pianist based in Finland. He frequently performs solo recitals, collaborates with singers and instrumentalists, works with composers and surprises his audiences performing unjustly neglected works far outside of the standard repertoire."> <meta http-equiv="content-type" content="text/html;charset=UTF-8"> </head>
 
 ## 2014
