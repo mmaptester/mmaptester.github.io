@@ -12,7 +12,7 @@ weight: 3
 <!-- Microdata markup added by Google Structured Data Markup Helper. -->
 <div itemscope itemtype="http://schema.org/Event" class="site">
 
-<h3 itemprop="startDate" content="2015-02-18">### February 18</h3>
+<h3 itemprop="startDate" content="2015-02-18">February 18</h3>
 
 <p>
 <span itemprop="location" itemscope itemtype="http://schema.org/Place">
